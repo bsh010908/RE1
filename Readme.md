@@ -15,3 +15,5 @@ npm install --save-dev @babel/core @babel/preset-env @babel/preset-react babel-l
 # HTML 처리 플러그인
 npm install --save-dev html-webpack-plugin
 
+
+## npm run start
